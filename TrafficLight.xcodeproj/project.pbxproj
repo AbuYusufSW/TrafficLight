@@ -11,6 +11,8 @@
 		34AA3B272A336586005DF6C3 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 34AA3B262A336586005DF6C3 /* ContentView.swift */; };
 		34AA3B292A336587005DF6C3 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 34AA3B282A336587005DF6C3 /* Assets.xcassets */; };
 		34AA3B2C2A336587005DF6C3 /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 34AA3B2B2A336587005DF6C3 /* Preview Assets.xcassets */; };
+		34AA3B332A336656005DF6C3 /* TrafficLightView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 34AA3B322A336656005DF6C3 /* TrafficLightView.swift */; };
+		34AA3B352A34E446005DF6C3 /* ButtonView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 34AA3B342A34E446005DF6C3 /* ButtonView.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -19,6 +21,8 @@
 		34AA3B262A336586005DF6C3 /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
 		34AA3B282A336587005DF6C3 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		34AA3B2B2A336587005DF6C3 /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
+		34AA3B322A336656005DF6C3 /* TrafficLightView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TrafficLightView.swift; sourceTree = "<group>"; };
+		34AA3B342A34E446005DF6C3 /* ButtonView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ButtonView.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -53,6 +57,8 @@
 			children = (
 				34AA3B242A336586005DF6C3 /* TrafficLightApp.swift */,
 				34AA3B262A336586005DF6C3 /* ContentView.swift */,
+				34AA3B342A34E446005DF6C3 /* ButtonView.swift */,
+				34AA3B322A336656005DF6C3 /* TrafficLightView.swift */,
 				34AA3B282A336587005DF6C3 /* Assets.xcassets */,
 				34AA3B2A2A336587005DF6C3 /* Preview Content */,
 			);
@@ -138,6 +144,8 @@
 			buildActionMask = 2147483647;
 			files = (
 				34AA3B272A336586005DF6C3 /* ContentView.swift in Sources */,
+				34AA3B332A336656005DF6C3 /* TrafficLightView.swift in Sources */,
+				34AA3B352A34E446005DF6C3 /* ButtonView.swift in Sources */,
 				34AA3B252A336586005DF6C3 /* TrafficLightApp.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
